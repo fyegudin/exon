@@ -1,0 +1,12 @@
+[
+  {
+    "seniority": "2024-01-03",
+    "keywords": ["apple", "banana"],
+    "references": 2
+  },
+  {
+    "seniority": "2024-01-10",
+    "keywords": ["orange", "pear"],
+    "references": 1
+  }
+]

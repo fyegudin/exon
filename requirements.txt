@@ -1,0 +1,6 @@
+"""This file lists the project dependencies, and you can add more dependencies based on your project's requirements"""
+# Add other dependencies as needed
+pytest~=7.4.4
+flask~=3.0.0
+requests~=2.31.0
+Faker~=22.2.0
